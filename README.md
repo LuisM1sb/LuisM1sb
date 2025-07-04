@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisM1sb (Luis Méndez)
 - 👀 I’m interested in  freelance projects, nonprofit organization projects, web development projects, and remote work.
-- 🌱 I’m currently learning: GitHub, Redhat, MS Azure, English.
+- 🌱 I’m currently learning: GitHub, AWS, English.
 - 💞️ I’m looking to collaborate on DevOps projects.
 - 📫 How to reach me:
     - LinkedIn: [Luis Méndez](https://www.linkedin.com/in/luismendezmor/)
